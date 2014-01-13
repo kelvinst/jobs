@@ -1,7 +1,7 @@
 ## Quero trabalhar na ateliware e agora como eu faço?
 Primeiro, crie um fork desse projeto. Dentro do seu fork:
 
-- Insera seu currículo;
+- Insira seu currículo;
 - Faça um pull request.
 
 Adicione também **qualquer coisa** que você achar que seja relevante para nós. 
