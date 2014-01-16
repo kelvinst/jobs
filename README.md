@@ -12,13 +12,7 @@ Um trabalho, twitter, linkedin, projetos open source que você já contribuiu e 
 ## Vagas na ateliware
 Atualmente procuramos pessoas que se encaixem nos seguintes perfis:
 
-### Ruby on Rails
-- Experiência com Rails;
-- Experiência com Javascript ou CoffeeScript;
-- Já tenha escrito muitos testes com rspec ou minitest;
-- Já tenha trabalhado com metodologias ágeis;
-- Seja organizado;
-- Tenha uma boa comunicação.
+- [Desenvolvedor Ruby on Rails](https://github.com/ateliware/jobs/blob/master/desenvolvedor-ruby-on-rails.md)
 
 ----------------------------------------------------------------
 
