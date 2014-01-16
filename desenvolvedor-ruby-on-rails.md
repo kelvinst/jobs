@@ -1,3 +1,5 @@
+# Desenvolvedor Ruby on Rails
+
 A **ateliware** é uma boutique de software localizada em Curitiba. Somos uma equipe dedicada de desenvolvedores, designers e estamos a procura de alguém especial para fazer parte do nosso time.
 
 **Veja o que você irá fazer:**
@@ -25,7 +27,7 @@ Será o *jedi* e responsável por todas as coisas Ruby da sua equipe. Irá traba
 - Seja super organizado, muitos projetos acontecendo e ter o controle de tudo é fundamental;
 - Queira fazer a diferença.
 
-Para saber mais sobre a **ateliware**, visite nosso facebook em [facebook.com/ateliware](http://facebook.com/ateliware).
+Para saber mais sobre a **ateliware**, visite nosso [facebook](http://facebook.com/ateliware).
 
 ----------------------------------------------------------------
 
