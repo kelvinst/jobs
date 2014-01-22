@@ -4,14 +4,13 @@ A **ateliware** é uma boutique de software localizada em Curitiba. Somos uma eq
 
 **Veja o que você irá fazer:**
 
-Será o *jedi* e responsável por todas as coisas Ruby da sua equipe. Irá trabalhar com um designer e desenvolvedor front-end para fazer aplicações bonitonas que todo mundo goste.
+Será o responsável por todas as coisas Ruby da sua equipe. Irá trabalhar com um designer e desenvolvedor front-end para fazer aplicações bonitonas que todo mundo goste.
 
 **Mais especificamente, você irá:**
 
 - Discutir novas funcionalidades e a melhor forma de implementar com foco em usabilidade e reutilização;
 - Planejar e arquitetar novas aplicações;
 - Manter e refatorar aplicações existentes;
-- Fazer parte do time *jedi* de Ruby on Rails;
 - Escrever muito CoffeeScript;
 - Fazer coisas lindonas com SASS;
 - Escrever um teste antes de qualquer funcionalidade;
